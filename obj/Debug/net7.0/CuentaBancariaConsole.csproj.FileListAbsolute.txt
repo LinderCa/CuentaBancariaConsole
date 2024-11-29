@@ -1,0 +1,15 @@
+D:\PROYECTOS\PROYECTOS C#\CuentaBancariaConsole\bin\Debug\net7.0\CuentaBancariaConsole.exe
+D:\PROYECTOS\PROYECTOS C#\CuentaBancariaConsole\bin\Debug\net7.0\CuentaBancariaConsole.deps.json
+D:\PROYECTOS\PROYECTOS C#\CuentaBancariaConsole\bin\Debug\net7.0\CuentaBancariaConsole.runtimeconfig.json
+D:\PROYECTOS\PROYECTOS C#\CuentaBancariaConsole\bin\Debug\net7.0\CuentaBancariaConsole.dll
+D:\PROYECTOS\PROYECTOS C#\CuentaBancariaConsole\bin\Debug\net7.0\CuentaBancariaConsole.pdb
+D:\PROYECTOS\PROYECTOS C#\CuentaBancariaConsole\obj\Debug\net7.0\CuentaBancariaConsole.csproj.AssemblyReference.cache
+D:\PROYECTOS\PROYECTOS C#\CuentaBancariaConsole\obj\Debug\net7.0\CuentaBancariaConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS\PROYECTOS C#\CuentaBancariaConsole\obj\Debug\net7.0\CuentaBancariaConsole.AssemblyInfoInputs.cache
+D:\PROYECTOS\PROYECTOS C#\CuentaBancariaConsole\obj\Debug\net7.0\CuentaBancariaConsole.AssemblyInfo.cs
+D:\PROYECTOS\PROYECTOS C#\CuentaBancariaConsole\obj\Debug\net7.0\CuentaBancariaConsole.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\PROYECTOS C#\CuentaBancariaConsole\obj\Debug\net7.0\CuentaBancariaConsole.dll
+D:\PROYECTOS\PROYECTOS C#\CuentaBancariaConsole\obj\Debug\net7.0\refint\CuentaBancariaConsole.dll
+D:\PROYECTOS\PROYECTOS C#\CuentaBancariaConsole\obj\Debug\net7.0\CuentaBancariaConsole.pdb
+D:\PROYECTOS\PROYECTOS C#\CuentaBancariaConsole\obj\Debug\net7.0\CuentaBancariaConsole.genruntimeconfig.cache
+D:\PROYECTOS\PROYECTOS C#\CuentaBancariaConsole\obj\Debug\net7.0\ref\CuentaBancariaConsole.dll
